@@ -1,0 +1,2 @@
+Builds/** filter=lfs diff=lfs merge=lfs -text
+Coin[[:space:]]Chaser/** filter=lfs diff=lfs merge=lfs -text
